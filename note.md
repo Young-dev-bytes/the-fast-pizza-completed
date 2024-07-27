@@ -53,4 +53,4 @@ config tailwindcss
 "singleQuote": true
 }
 
-Video : already finished
+Video : already finished 2024/7/27
