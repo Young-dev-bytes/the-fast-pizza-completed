@@ -219,3 +219,120 @@ Hey everybody, welcome to Algo Expert. In this video, we're going to answer the 
 
 If you need further assistance, feel free to ask!
 
+
+—————————————————————
+
+Hey everybody, welcome to Algo Expert. In this video we're going to answer the following behavioral interview question.
+
+Describe a time when you had to deal with an outage at work. How did you handle the situation? What steps did you take after the issue was resolved?
+
+So, throughout my entire software engineering career, I would say that I've experienced about a handful of real production outages.
+
+Now the one that's most memorable, the one that I want to talk about here, is actually the very first real production outage that I ever experienced.
+
+It happened back in 2017. I had been at Google as a software engineer for a little over six months.
+
+And one afternoon, it was kind of late in the afternoon, I was the last person on my team, or at least the last engineer on my team, at the office.
+
+And I happened to go on the UI, the user interface, of my team's product. I worked on Google Cloud Platform on the front end of a particular Google Cloud Platform product.
+
+And so I go on the website, on the UI, and one of our primary pages was just blank. It wasn't loading, nothing on the screen, just completely blank.
+
+So obviously for a split second, I kind of panicked, "What's going on?" Then I composed myself, and here's how I handled this, what turned out to be a pretty bad production outage.
+
+The first thing that I did is, I wanted to confirm that this was actually a real bug in production and not just something with my computer or my account or something like that.
+
+So I asked a couple people who were around me, these were not my teammates, because like I said, I was the last person from my team at the office,
+
+but a couple of other people who were in proximity to me to go on the link of the page and just to see if they were also experiencing the same thing on their computers, on their accounts.
+
+And yes, they were. So clearly this was a real production issue.
+
+So the second thing that I decided to do was, before alerting anybody else, and I suppose here maybe I should take a step back and say,
+
+at the time, my team didn't have an on-call rotation set up, because if we had had an on-call rotation, the first thing to do here would have been, once I confirmed that this was a real bug,
+
+the first thing to do would have been to flag the bug or the issue to the primary on-call. Just at least have them be aware of what was going on.
+
+We didn't have an on-call rotation at that point in time. We created our on-call rotation a little bit later on.
+
+And this was, by the way, a relatively new Google Cloud Platform product at the time, which is why we didn't have our on-call rotation.
+
+Given that, the first thing that I said I was going to do, or the second thing rather, was I was going to spend five to ten minutes just trying to see if I could debug the issue.
+
+I wanted to see, like, can I fix this without having to alert my teammates who are no longer in the office, without having to alert my manager, who was, I don't know where he was, probably at home.
+
+I spent five to ten minutes trying to debug the issue. Turns out I wasn't able to figure out what the cause of the issue was.
+
+It was a very weird bug, blank page, nothing in the Chrome console. There had been nothing out of the ordinary that day or in the previous days.
+
+So it was really confusing and I just wasn't able to figure it out. So at that point, I did alert the rest of my team after, I would say, about ten minutes.
+
+Because, you know, I think this is one of my philosophies for these types of issues. You never want to be, you don't want to play the hero, right?
+
+If you can, try to figure out the issue within five minutes, but after a certain point, there's no point in hiding this from other people.
+
+The key thing is to fix the issue, not for you to be the hero or for people not to be bothered, if that makes sense.
+
+So after five to ten minutes, alerted my team and fortunately, one of my teammates was actually still in the office, just upstairs getting dinner or something.
+
+So he came down and we started pair programming to try to figure out this bug.
+
+Now, one of the key things also here that we did, which is something that I am a very big proponent of, is even though the situation was pretty stressful,
+
+literally one of the primary pages of our product was down, not working, which meant that the entire product was basically not usable or only half usable.
+
+But so despite the stressful situation, you have to stay calm and you have to also, you know, not point fingers at anybody, not put any blame on anybody.
+
+Because obviously when you're debugging in the moment and everything, it's like, oh, well, this file was poorly written. Why did someone do that?
+
+So I'm not going to go into the bugs here. It's very easy to potentially point fingers and blame people.
+
+I didn't want to do that. And that's just unhealthy in a team in general.
+
+But so we pair programmed, we documented everything that we were doing, keeping our team in the loop.
+
+At that point, my manager was also in the loop. We followed the process that we knew to follow.
+
+Unfortunately, we didn't have some sort of playbook to follow line by line for an outage. And this was a lesson that we learned from this. I'll get into that in a little bit.
+
+But we just documented everything. And after a while, you know, I would say probably after 30 minutes, we decided with my manager, who was chatting with us at this point,
+
+to create an official what's called an OMG at Google, which is basically like an incident report that actually gets flagged kind of at the engineering company level.
+
+And so we did that. We kept the incident report sort of up to date.
+
+And this kind of flags people who are on call and all of Google Cloud Platform and the rest of the company and just followed the procedure there.
+
+Eventually, we figured out what the bug was. It turned out it was something really, really convoluted with Angular, the front end framework.
+
+But that was it. And then we fixed the bug. We had this OMG, this incident report kind of in progress. We eventually closed it.
+
+And, you know, everything was done after that. By the next morning, you know, the new sort of production release or deployment, the bug was fixed.
+
+Now, as for what we did afterwards, we did something that's very common at Google, which I've continued to do even since I've left Google.
+
+And we do it a lot at my current job on Algo Expert, which is to write a postmortem, which is kind of like a document explaining what happened,
+
+the issue, detailing all the steps that were taken to resolve the issue. And most importantly, we answered two questions that I think are crucial to answer after production outage.
+
+Number one, how did we get lucky? And this is a good question to answer because it allows you to determine where there are holes or flaws in your general processes and systems.
+
+For us, we got lucky in the sense that I happened to be at the office late and happened to go on the UI and fall on that page.
+
+Nothing in our systems at that point in time would have flagged that the page was down. And that was clearly an issue.
+
+We had gotten lucky there that we caught the outage quickly and randomly.
+
+And the lesson from that and the thing that we took away from that was that we needed end to end integration tests.
+
+Like I said, we were a fairly new product at the time. We didn't have integration tests, but we obviously, you know, made it a point to create them after this outage.
+
+That was one of our lessons from the postmortem. The second question that I really like to answer in postmortems, which we did, was what could we have done better?
+
+And the thing that we could have done better there was and this was more of a preventative measure was we could have had a written out playbook for how to deal with these kinds of production outages, whom to contact, how to create an incident report, because that was the first time we had all done it.
+
+Or at least me and the engineer pair programming with me. And so, again, another lesson that we took from that it was we need a playbook. And in the couple of weeks following the issue, we actually wrote a, you know, what do you do if you're at work and there's a production outage or what do you do when there's a production outage in general and you have to fix it?
+
+So that's how we handled that incident. That's how I've kind of handled most of the incidents that I've faced since then. And yeah, that's it.
+
