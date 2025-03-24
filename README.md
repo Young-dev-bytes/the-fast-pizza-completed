@@ -145,3 +145,32 @@ At Facebook, I've read a lot about the bootcamp experience and my recruiter told
 That's something that is incredibly unique, I haven't heard about another company doing that, it's something that really is appealing to me.
 
 And on that note, at the end of the interview, if we have time, I'd love to ask you what your experience was with bootcamp, what you liked about it and how it worked.
+
+
+
+==================
+
+So what exactly is GoTo, and how did it get so big?
+
+GoTo is the largest digital ecosystem in Indonesia, with a mission to 'empower progress' by offering technology infrastructure and solutions that help everyone to access and thrive in the digital economy. The GoTo ecosystem provides a wide range of services including mobility, food delivery, groceries and logistics, as well as payments, financial services, and technology solutions for merchants. The ecosystem also provides e-commerce services through Tokopedia and banking services through its partnership with Bank Jago.
+
+
+GoTo Group is an Indonesian tech company formed in a blockbuster merger between two of the country’s largest start-ups: Gojek and Tokopedia.
+The main product of the merger, a powerful super app you can use to book a ride,
+buy something or make a payment, is today used by tens of millions.
+
+From day one, we offered multiple different services, like a ride-hailing service or a delivery service.
+
+There’s a saying that if you want to go fast, you go alone; if you want to go far, you go together. So GoTo, basically, is go far, go together.
+
+In May 2021, Two of Indonesia’s largest tech  start-ups have announced one of the biggest mergers ever in the world. These two are famously known as Gojek, a ride-hailing and payment services firm, Tokopedia, an e-commerce firm. The two giants made up what is now known as the GoTo Group and it is one of Southeast Asia’s  most valuable start-ups ever. At the time of the  merger, the company got a public big market valuation.  
+
+what GoTo really is. As mentioned earlier, it is a merger of Indonesia’s biggest tech giants which are Gojek and Tokopedia. 
+
+Gojek, the first company that is a multi-service platform with products and services such as ride-hailing, food delivery, and entertainment services, video streaming platform, and financial services. Gojek is one of the top companies that is changing the world. It is a company that operates in most of the countries in Southeast Asia and is offering a wide array of services. 
+
+Tokopedia is an e-commerce platform, fintech, logistics,  
+The Tokopedia Platform and fulfillment business. Like Gojek, Tokopedia  is also a billion-dollar business.
+
+These two together combined makeup one of  the biggest internet companies of Southeast Asia  
+
