@@ -372,3 +372,103 @@ i'll put in ride.in ride d one but d one to say that like you can not pick up an
 8
 
 9
+
+
+—————————————————————
+
+
+Hey everybody, welcome to Algo Expert. In this video, we're going to answer the following behavioral interview question.
+
+Describe a time when you went out of your comfort zone.
+
+Why did you do it? What lessons did you learn from the experience?
+
+So one time that I went out of my comfort zone was back during the summer of 2018.
+
+I had decided to host for the very first time a pair of engineering interns at Google.
+
+This was my very first managerial experience.
+
+And I was very excited about it because it was something that I'd always wanted to do, but it was something very new to me.
+
+So it was out of my comfort zone in that I had never been in a managerial position before.
+
+And I had been warned by my manager, by other people who had hosted interns in the past, that this was going to be a non-trivial endeavor.
+
+It wasn't going to be easy.
+
+And also, I chose to host what are called engineering practicum interns at Google, where these are interns who are a bit younger.
+
+They are, I think, freshmen, incoming sophomores or incoming juniors.
+
+So a bit earlier on in their career, and they come in pairs, not just a single intern.
+
+So it was definitely going to stretch me out of my comfort zone.
+
+And the reason I did it was because not only did I want to do it, like I said, I had always wanted to try this out, to try to be a manager, to see if that was something that I was going to really enjoy.
+
+But also, I'm a firm believer that one of the best ways to grow is to push yourself out of your comfort zone, like to challenge yourself with new things, things that you haven't done before.
+
+It's a great way to test, to see if you like certain things.
+
+It's a great way to just learn new skills and grow.
+
+And so that's why I wanted to do it.
+
+Now, what I learned from it, I think probably two big lessons that I that I drew from the experience.
+
+The first one was that management isn't easy.
+
+I know that engineers especially have a tendency to kind of look down upon management to say that management is a bit easy.
+
+It's it's sometimes useless.
+
+That's that's the feeling that I felt from a lot of engineers that I've met.
+
+But truthfully, being in a managerial position, I realized that management isn't easy.
+
+And here I'll quote something that my my manager, my current manager, told me, which is that engineering is easy.
+
+People are hard.
+
+So management, by definition or by extension, is hard.
+
+And one of the reasons that it's hard is you have people who are dependent on you and your actions are almost directly going to determine multiple people, in my case, the two interns I was hosting, multiple people's experiences at work and basically happiness at work.
+
+And one last thing I'll say about this is it was particularly difficult when I had to do, let's say, one on one meetings with with my interns.
+
+It was particularly difficult to to deal with sometimes my own like bad days.
+
+Like, for example, if I had a bad day as an engineer, I could just go to my computer, put my headphones on and code.
+
+And I didn't really have to talk to anybody except maybe in a couple of meetings or in a pair programming session.
+
+But when you're a manager, you can't have you can't have a bad day and go to a meeting in a one on one with a direct report and and show that you're having a bad day.
+
+Right. Because you have to serve them.
+
+You can't kind of leak your bad mood on them.
+
+So that was something that was pretty difficult.
+
+But anyway, I did the gate. The second big lesson that I learned from the experience was that you you quickly realize that there's no adult in the other room to save you.
+
+So what I mean by that is when you work at a big company, especially a big tech company, you often have this feeling of security, at least as a as an engineer or as just an individual contributor.
+
+You often have this feeling of of mental security where if something goes wrong or if you don't have the answer to something or if you don't know what to do, somebody else will be there to save you.
+
+Somebody else will be there to give you a parachute to give you the answer that you're looking for.
+
+When you put yourself in a managerial position, at the very least when you're when you're the manager of of an intern or of a pair of interns, there is nobody else behind you to pick up your messes.
+
+If I messed up the projects that I assigned to my interns, if I messed up the one on ones with my intern, there wasn't anybody else who was responsible for them.
+
+And that's a pretty that's a pretty frightening realization.
+
+It's also a very empowering one.
+
+And I've just remembered it ever since.
+
+And now whenever when I kind of see my own managers now and leaders in companies in general in a bit of a different light, and I realize the difficulty that they might be experiencing when they're making decisions, because oftentimes
+
+there's just nobody else in the other room to save them or to tell them what the best decision is in a certain scenario, for example.
